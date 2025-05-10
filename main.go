@@ -3,23 +3,18 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/NeverStop-cmy/go-practice/advanced"
-	"github.com/NeverStop-cmy/go-practice/concurrency"
-	"github.com/NeverStop-cmy/go-practice/data_structures"
-	"github.com/NeverStop-cmy/go-practice/error_handling"
-	"github.com/NeverStop-cmy/go-practice/oop"
-	"github.com/NeverStop-cmy/go-practice/stdlib"
 	"os"
 	"strconv"
 	"strings"
 
-	//"github.com/NeverStop-cmy/go-practice/advanced"
+	"github.com/NeverStop-cmy/go-practice/advanced"
 	"github.com/NeverStop-cmy/go-practice/basics"
-	//"github.com/NeverStop-cmy/go-practice/data_structures"
-	//"github.com/NeverStop-cmy/go-practice/error_handling"
+	"github.com/NeverStop-cmy/go-practice/concurrency"
+	"github.com/NeverStop-cmy/go-practice/data_structures"
+	"github.com/NeverStop-cmy/go-practice/error_handling"
 	"github.com/NeverStop-cmy/go-practice/functions"
-	//"github.com/NeverStop-cmy/go-practice/oop"
-	//"github.com/NeverStop-cmy/go-practice/stdlib"
+	"github.com/NeverStop-cmy/go-practice/oop"
+	"github.com/NeverStop-cmy/go-practice/stdlib"
 )
 
 func main() {
